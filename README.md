@@ -1,8 +1,7 @@
 # Memories-Bazinga
 
 ![Image 1](https://raw.githubusercontent.com/paramj0t/memories-bazinga/master/images/1.png)  
-![Image 1](https://raw.githubusercontent.com/paramj0t/memories-bazinga/master/images/2.png)  
-![Image 3](https://raw.githubusercontent.com/paramj0t/memories-bazinga/master/images/3.png)
+
 
 Memories-Bazinga is a website where users can add their Memories. In order to review or add memories or anything, you must have an account.
 
